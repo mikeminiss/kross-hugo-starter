@@ -1,3 +1,3 @@
-module github.com/DirtyF/kross-hugo
+module github.com/mikeminiss/kross-hugo
 
 go 1.13
