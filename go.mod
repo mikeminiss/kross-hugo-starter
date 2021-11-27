@@ -1,3 +1,3 @@
-module github.com/mikeminiss/mikeminiss-kross-hugo
+module github.com/mikeminiss/kross-hugo-starte
 
 go 1.13
