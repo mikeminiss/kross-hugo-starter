@@ -17,7 +17,7 @@ work_process:
 
 team:
   enable: true
-  title : "The Team"
+  title : "My Team"
   team_member:
     - title : "Michele Minissale"
       image : "images/team/member-1.png"
