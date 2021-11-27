@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "en-US"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
