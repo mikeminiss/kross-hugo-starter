@@ -2,15 +2,15 @@ work_process:
   enable : true
   title : "Work Process"
   item:
-  - title : "Research and Plan"
+  - title : "Amministrazione Finanza Marketing"
     icon : "images/icons/plan.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title : "Design and Develop"
+  - title : "Relazioni Internazionali e Marketing"
     icon : "images/icons/design.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title : "Deliver"
+  - title : "Sistemi Informativi Aziendali"
     icon : "images/icons/print.png"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
