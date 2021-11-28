@@ -3,6 +3,7 @@ languageCode = "en-US"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
+relativeURLs = true
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
